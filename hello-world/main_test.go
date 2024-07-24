@@ -23,7 +23,7 @@ func TestHandler(t *testing.T) {
 					},
 				},
 			},
-			expectedBody:  "Hola Mundo!\n",
+			expectedBody:  "Hola mundo!\n",
 			expectedError: nil,
 		},
 		{
